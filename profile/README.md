@@ -8,6 +8,10 @@ Ember is a feature-rich FiveM roleplay server dedicated to providing an engaging
 
 - **Resource Releases** – Enjoy scripts created by our development team to enhance your server.
 
+## 🎮 What EmberRP Offers
+
+- **Inhouse Development** - We take pride in creating our own server resources, to ensure the player experience is exactly how we need it to be - This allows us to create new features and fix bugs in a much faster rate than those who use purchased scripts.
+
 ## 🎮 How to Join
 
 1. Join our **Discord**: https://discord.gg/EmberRP
