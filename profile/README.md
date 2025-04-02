@@ -6,10 +6,7 @@ Ember is a feature-rich FiveM roleplay server dedicated to providing an engaging
 
 ## 🔧 What You'll Find Here
 
-- **Custom FiveM Scripts** – Our own unique scripts to enhance RP.
-- **Server Documentation** – Guides on how to get started and contribute.
-- **Issue Tracking** – Report bugs and suggest features.
-- **Community Contributions** – A place for talented developers to help improve our server.
+- **Resource Releases** – Enjoy scripts created by our development team to enhance your server.
 
 ## 🎮 How to Join
 
