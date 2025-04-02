@@ -2,7 +2,11 @@
 
 ## 🌟 About Us
 
-Ember is a feature-rich FiveM roleplay server dedicated to providing an engaging and realistic roleplay experience. Whether you're a law-abiding citizen, a business mogul, or a criminal mastermind, our server offers countless opportunities to shape your story.
+We're a GTA 5 FiveM roleplaying server dedicated to building an enjoyable and immersive community. Along with providing a great RP experience, we occasionally release scripts to the public!
+
+Ember is currently in development for 2.0, a massive update built on everything we learned from 1.0. With hundreds of hours poured into development, we're bringing a brand-new UI, a complete overhaul of civilian and criminal jobs, and exciting new features and mechanics never seen before in our previous version.
+
+Expect bigger, better, and more immersive roleplay with Ember 2.0!
 
 ## 🔧 What You'll Find Here
 
