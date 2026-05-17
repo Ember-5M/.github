@@ -1,1 +1,1 @@
-Shit is dead, bye.
+Free resources for FiveM
